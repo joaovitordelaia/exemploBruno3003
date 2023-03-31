@@ -1,0 +1,7 @@
+D:\Atividade C#\revisao\revisao\bin\Debug\revisao.exe.config
+D:\Atividade C#\revisao\revisao\bin\Debug\revisao.exe
+D:\Atividade C#\revisao\revisao\bin\Debug\revisao.pdb
+D:\Atividade C#\revisao\revisao\obj\Debug\revisao.csproj.AssemblyReference.cache
+D:\Atividade C#\revisao\revisao\obj\Debug\revisao.csproj.CoreCompileInputs.cache
+D:\Atividade C#\revisao\revisao\obj\Debug\revisao.exe
+D:\Atividade C#\revisao\revisao\obj\Debug\revisao.pdb
